@@ -35,6 +35,10 @@ Credits
 
 Game Design/Programming/Graphics: mit-mit
 
+"wii_balance_board.py" uses code and methods modified from:
+"gr8w8upd8m8" by Stavros Korokithakis
+https://github.com/skorokithakis/gr8w8upd8m8
+
 Music and Sound:
 
 "Electrodoodle" by Kevin MacLeod (incompetech.com) 
